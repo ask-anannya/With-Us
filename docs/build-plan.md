@@ -18,8 +18,6 @@ Oct 26, 2026 · @Akshat
 ### Rules for Claude Code
 
 - **All code is new.** Started from this empty folder during the submission period. Old ideas are allowed, old code is not.
-- **The reference app is for patterns only.** It is an MIT-licensed family-caregiving project ([repo](https://github.com/ahammadshawki8/Shoulder)). Read it to understand ideas such as per-viewer privacy projection. Never copy its files, components, text, assets, tagline or demo names.
-- **Name and copy.** The product is "With Us" everywhere. The reference project's name and its demo family names must not appear in the UI, README, commits, seed data or video.
 - **No em dashes** in UI copy, README or submission text.
 - **Screenshots set layout and density only.** The colour theme is baby pink (section 9).
 - **Never break the three product rules** in section 2, even to save time.
