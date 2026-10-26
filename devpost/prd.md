@@ -46,7 +46,7 @@ Source: `scope.md > Inspiration & Identity`.
 - Calm and gentle tone. Pill chips. One rounded load bar split by member colour.
 - The mother never sees percentages, health numbers, streaks or red. Missed quests roll to tomorrow quietly.
 - Dark mode via a moon toggle, remembered per browser. Animations respect reduced motion.
-- No em dashes in any copy. The reference app's name and demo names never appear.
+- No em dashes in any copy.
 
 ## Features and Behavior
 
