@@ -29,6 +29,7 @@ Demo mode is on. Use the **Demo household** buttons on the landing page to sign 
 - [Not a medical device](#not-a-medical-device)
 - [What we learned](#what-we-learned)
 - [Planning documents](#planning-documents)
+- [License](#license)
 
 For how the pieces fit together (the fair-plan engine, the privacy layers and the AI calls), see **[ARCHITECTURE.md](ARCHITECTURE.md)**.
 
@@ -275,3 +276,7 @@ _To be written by the team._
 ## Planning documents
 
 The scope, product requirements, technical spec and build checklist made with the hackathon's planning skills are in [`devpost/`](devpost/). The original implementation plan is in [`docs/build-plan.md`](docs/build-plan.md).
+
+## License
+
+With Us is open source under the [MIT License](LICENSE). You are free to use, copy, change and share it, including for commercial use, as long as the copyright and license notice stay with it.
