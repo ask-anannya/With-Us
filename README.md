@@ -1,3 +1,7 @@
+## Planning documents
+
+The scope, product requirements, technical spec and build checklist made with the devpost learn skill pack are in [`devpost/`](devpost/). The original implementation plan is in [`docs/build-plan.md`](docs/build-plan.md).
+
 # With Us
 
 **A recovery plan for the new mother that the whole household carries.**
@@ -11,9 +15,6 @@ Demo mode is on. Use the **Demo household** buttons on the landing page to sign 
 ![Landing page](screenshots/01-landing.png)
 
 ---
-## Planning documents
-
-The scope, product requirements, technical spec and build checklist made with the hackathon's planning skills are in [`devpost/`](devpost/). The original implementation plan is in [`docs/build-plan.md`](docs/build-plan.md).
 
 ## Contents
 
