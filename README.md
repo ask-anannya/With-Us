@@ -11,6 +11,9 @@ Demo mode is on. Use the **Demo household** buttons on the landing page to sign 
 ![Landing page](screenshots/01-landing.png)
 
 ---
+## Planning documents
+
+The scope, product requirements, technical spec and build checklist made with the hackathon's planning skills are in [`devpost/`](devpost/). The original implementation plan is in [`docs/build-plan.md`](docs/build-plan.md).
 
 ## Contents
 
@@ -271,11 +274,7 @@ If you are struggling, Tele-MANAS (India) is free and open 24x7 on **14416** or 
 
 ## What we learned
 
-_To be written by the team._
-
-## Planning documents
-
-The scope, product requirements, technical spec and build checklist made with the hackathon's planning skills are in [`devpost/`](devpost/). The original implementation plan is in [`docs/build-plan.md`](docs/build-plan.md).
+How to properly plan and scope out an ideas build to make it possible to make the entire project in a single pass
 
 ## License
 
