@@ -76,8 +76,8 @@ Git: the learner makes all commits; the agent runs no git commands. `Commit:` li
   Why now: Everything functional exists; this makes the video and phone view look finished.
   PRD ref: `prd.md > Look and Feel`, `prd.md > States and Boundaries`, `prd.md > Screens and Layout`
   Spec ref: `spec.md > Look and Feel`, `spec.md > Important Failure Modes`
-  Build: Desktop-only layout, dark theme toggle persisted in localStorage, empty states, AI-unavailable notices, focus rings, reduced motion, "Add a task" form. Scan copy for em dashes and the reference project's names.
-  Verify (mechanical): `npm run build` passes; grep of frontend, backend seed and README finds no em dashes and no reference names; all pytest suites pass.
+  Build: Desktop-only layout, dark theme toggle persisted in localStorage, empty states, AI-unavailable notices, focus rings, reduced motion, "Add a task" form. Scan copy for em dashes.
+  Verify (mechanical): `npm run build` passes; grep of frontend, backend seed and README finds no em dashes; all pytest suites pass.
   Learner check: Toggle dark mode and walk the demo script.
   Commit: `Polish layout, dark mode and states`
 
