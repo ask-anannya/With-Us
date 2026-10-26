@@ -1,0 +1,31 @@
+:root {
+  --bg: #FFF9F7;           /* warm cream page */
+  --surface: #FFFFFF;      /* cards */
+  --ink: #2A2226;          /* headings and body */
+  --muted: #6F6267;        /* helper text */
+  --line: #F1DDE3;         /* borders */
+  --pink-50: #FFF2F5;      /* soft fills */
+  --pink-100: #FDE3EA;     /* chips selected, card tint */
+  --pink-200: #F8C8D4;     /* baby pink: highlights, quest path */
+  --pink-400: #E994AC;     /* borders on focus, progress */
+  --rose-600: #B0406A;     /* primary buttons, links, active nav */
+  --rose-700: #8F2F55;     /* primary hover, private-reason note text */
+  --warn-bg: #FFF4E5;      /* waiting on you card */
+  --warn-ink: #9A5B12;
+  --m1: #B0406A;           /* member colours for the load bar */
+  --m2: #7B5EA7;
+  --m3: #D9844F;
+  --m4: #4F8C80;
+  --radius-card: 16px;
+  --radius-chip: 999px;
+  --shadow: 0 1px 2px rgba(42,34,38,.04), 0 8px 24px rgba(176,64,106,.06);
+  --on-primary: #FFFFFF;
+}
+:root[data-theme="dark"] {
+  --bg: #1C1619;  --surface: #261E22;  --ink: #F7ECEF;  --muted: #BFAEB4;
+  --line: #3A2E33; --pink-50: #2E2328; --pink-100: #3A2A31; --pink-200: #5A3A47;
+  --pink-400: #D97F9C; --rose-600: #E58AA8; --rose-700: #F2A9C0;
+  --warn-bg: #3A2D1C; --warn-ink: #F0C27A;
+  --on-primary: #2A1820;
+  --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.25);
+}

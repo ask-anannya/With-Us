@@ -1,0 +1,24 @@
+/devpost/learner-profile.md
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.venv/
+*.db
+
+.vercel
+.env*
+!.env.example
+
+# build output and local files
+frontend/dist/
+*.tsbuildinfo
+backend/uploads/
+.pytest_cache/
+
+# coding-agent tooling, not app code
+.agents/
+agent/
+.claude/
+skills-lock.json

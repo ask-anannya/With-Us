@@ -1,0 +1,14 @@
+**/node_modules
+**/.venv
+**/__pycache__
+backend/.env
+backend/*.db
+backend/uploads
+frontend/dist
+screenshots
+.agents
+agent
+.claude
+devpost/learner-profile.md
+.env.local
+.vercel
